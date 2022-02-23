@@ -1,0 +1,163 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Counterfeit Ievv</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A34734</idno>
+            <idno type="STC">Wing C6520A</idno>
+            <idno type="STC">ESTC R41329</idno>
+            <idno type="EEBO-CITATION">31355000</idno>
+            <idno type="OCLC">ocm 31355000</idno>
+            <idno type="VID">110305</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A34734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 110305)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1737:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Counterfeit Ievv</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[Newcastle :</pubPlace>
+                  <date>1653]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place and date of publication from Wing (2nd ed.)</note>
+                  <note>Pamphlet about Thomas Ramsey, also known as Thomas Horsley and Joseph ben Israel, who underwent false conversion to Judaism and to Anabaptism; Catholic agent in England -- cf. DNB.</note>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ramsay, Thomas, b. ca. 1631.</term>
+               <term>Anti-Catholicism --  England.</term>
+               <term>Proselytes and proselytizing, Jewish --  Converts from Christianity.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Geremy Carnes</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:110305:1"/>
+            <pb n="1" facs="tcp:110305:1" rendition="simple:additions"/>
+            <head>The Counterfeit Ievv.</head>
+            <p>IT would fill to much Paper to deſcribe all the Lyes, Forgeries, Hypocriſies, Slights of this miſerable wretch, who Writ him<g ref="char:EOLhyphen"/>ſelfe <hi>Joſephus Ben Iſrael. Hebr. Mantu.</hi> which part ſo long as he Acted, he did it ſo handſomely, and with ſo much exquiſite hy<g ref="char:EOLhyphen"/>pocriſie, relating the Cuſtomes, Ceremonies, Genealogies of the Jewes, that he eaſily got beyond thoſe who are Novices to thoſe Depths of Satan. He was of an accute wit, an excellent Linguiſt, (ſpoake moſt Languages, and Hebrew perfectly) a ready Schol<g ref="char:EOLhyphen"/>lar, a great Travellar, and came from <hi>Hambrough</hi> to <hi>Newcaſtle,</hi> calling himſelfe <hi>Horſeley.</hi> Before his diſcovery, he could carry himſelfe very ſmoothly, ſute himſelfe to any humour, company, diſcourſe very accurately, by his reddy ſubtile Wit and Tongue he could transforme himſelfe eaſily into what ſhapes he pleaſed, and act any Part; he could command his Eyes, his Countenance, his Tongue; could ſpeake Orthodoxly, Spiritually, Learnedly, Practically. Aske him why he called himſelfe <hi>Horſeley?</hi> Why; he was a Jew, and feared to be known, in regard ſo many of their Nation have ſuffered in <hi>England;</hi> and by their Talmud, in danger of Life, any thing is allowed, but Idolatry and Mur<g ref="char:EOLhyphen"/>ther. He was than in Judaiſme, but now a Chriſtian. But why came he over into <hi>England?</hi> Why; He heard of the Fame of the Chriſtians of <hi>England</hi> above all others; He had ſeen Papiſts, Lutherans, Calveniſts, they were all full of Ceremonies and Tra<g ref="char:EOLhyphen"/>ditions; He had converſed with ſome Anabaptiſts in <hi>Germany,</hi> (and they told him of the <hi>Engliſh</hi> Chriſtians) but they held Free<g ref="char:EOLhyphen"/>will, and ſuch points, and he deſired to worſhip God in the pu<g ref="char:EOLhyphen"/>reſt
+<pb n="2" facs="tcp:110305:2"/>way, without mixtures of mens inventions, therefore he came to the people of <hi>Hexham,</hi> and there (like a childe of the De<g ref="char:EOLhyphen"/>vill, full of all ſubtilty and guile, extraordinary endued with power and art from Hell, abuſing all the Ordinances of God, and mocking him to his face) he made his Declaration and Confeſſi<g ref="char:EOLhyphen"/>on of Chriſt in the publique Aſſembly before all the People, and afterwards went and was Baptized, ſo joyning himſelfe to that People there, but did not receive the Lords Supper with them, ſomewhat in his Conſcience ſtarlting at that; ſo to avoyd it, he feigned on purpoſe indiſpoſition, diſcontents, as he confeſſed after<g ref="char:EOLhyphen"/>wards, all this while uſing in his private Devotion, his Popiſh Prayers to Saint <hi>Benedict,</hi> Croſſings, &amp;c.</p>
+            <p>Upon the twentieth Day, the fourth Moneth, he came to <hi>New<g ref="char:EOLhyphen"/>caſtle,</hi> (being thereunto formerly engaged) to cleare himſelfe of forme particulars, (whereof warning was given to ſome of the Ma<g ref="char:EOLhyphen"/>giſtrates) and the next day appeared with ſome friends boldly be<g ref="char:EOLhyphen"/>fore the Magiſtrates, and ſome Miniſters, ready to receive all charges, all which he put off with horrible impudent lying, till one came, who partly knew him, and had lately received a Letter from his Mother at <hi>Leith.</hi> This came cloſe, and moved his Coun<g ref="char:EOLhyphen"/>tenance; when he ſaw he was like to the unmasked, he was ſtrangely ſmitten with feare, and amazement, ready now to confeſſe any thing; and confeſſed he was Maſter <hi>Alexander Ramſey</hi> his Sonne, a Scottiſh Gentleman,<note n="*" place="margin">The In<g ref="char:EOLhyphen"/>quiſition-houſe, one of the De<g ref="char:EOLhyphen"/>vils higheſt Courts.</note> was a Papiſt, ſent over by the Inquiſition, (thoſe bloody monſters of men whoſe Helliſh methods in mur<g ref="char:EOLhyphen"/>thering poore Proteſtants is moſt execrable, fit to be abomina<g ref="char:EOLhyphen"/>ted in all Common wealths. Turks and Heathens would bluſh at ſuch cruelties) who imployed him (as a notable Mercurized ſpirit, an Embaſſadour extraordinary of the<note n="*" place="margin">Odi ete<g ref="char:EOLhyphen"/>nim ſeu clauſtra arebi, &amp;c.</note> Devill, <hi>Dolis in<g ref="char:EOLhyphen"/>ſtructus, &amp; Arte Pelaſgâ</hi>) to promote Diviſions; and orde<g ref="char:EOLhyphen"/>red him to faine himſelfe a Jew, with other inſtructions; and hearing that the Sect of <hi>Anabaptiſts</hi> were a very praevailing Sect, his firſt buſineſſe was to be Baptized, and get the Teſtimoniall of a Church; and ſo (after he had blowne up them with Notions about Free-will, &amp;c. which he intended preſently to broach) to make his way through to the Army, where he thought he could doe well enough. An Errant of Hell all along in its methods. In
+<pb n="3" facs="tcp:110305:2" rendition="simple:additions"/>his perplexed fits he would ſay, <hi>Ah, I have a Head fit for any purpoſe; but what ſhall I doe, I am afraid of the Army; but not<g ref="char:EOLhyphen"/>withſtanding all this, my heart is not moved more than a ſtone.</hi> When he was told he had loving Parents, he profeſſed, he cared nor if he never ſaw their<note n="*" place="margin">An unna<g ref="char:EOLhyphen"/>tural Son is fitteſt for the Devils vvorſt im<g ref="char:EOLhyphen"/>ployment.</note> Faces. When asked, how he could ſo diſſemble, and be Baptized? He ſaid, <hi>He laughed in his Sleeve to ſee how he gull'd thoſe men.</hi> He ſaid, <hi>He durſt never reade the Goſpel much, for feare of dulling his ſpirit; Devotion was onely for Blockeheads, and dull</hi>
+               <note n="*" place="margin">A State-Ieſuite muſt have no Genius, no fancy for Devo<g ref="char:EOLhyphen"/>tion.</note> 
+               <hi>Soules.</hi> Being asked, What gift in Prayer he had, whether he could. Pray as the Puritans? he ſaid, <hi>If he had been put to that he had made mad worke.</hi> But what cannot Schol<g ref="char:EOLhyphen"/>larſhip. Art, Hypocriſie counterfeit? At firſt he complained, he found no remorſe of ſpirit for any thing he had done, but a feare of deſpaire; but being afterwards put in hope to live, he grew more compoſed, and ſaid; <hi>The conſideration of the Bloud of Chriſt did quiet his Conſcience.</hi> He ſeemes to have a Conſcience full of all ſorts of guilt; one drop of the blood of <hi>Chriſt</hi> will heale all, and make him repent. If not, ſome notorious ſpectacle of wrath he will prove at one time or other.</p>
+            <p>Many ſnares and ginns, Providence hath to catch ſuch Vipers, ſuch Incendiaries, though they may long eſcape. Deſperate He<g ref="char:EOLhyphen"/>retickes, and ſeducers, that practice onely upon Churches, ought onely to be cut off by the Spirituall Sword of Excommunication, (if they be Members of Churches) and the Temporall Sword doth not at all reach them. True, ſuch as are meerly devout Papiſts, ought not to be harmed or moleſted. But ſuch as come to pra<g ref="char:EOLhyphen"/>ctice any wayes upon States, Armies, ſent from any of the Se<g ref="char:EOLhyphen"/>minaties or Colledges of Inquiſition beyond the Seas, with in<g ref="char:EOLhyphen"/>ſtructions from them to poyſon, piſtoll, ſtilletto (and ſuch as have any relation to the wicked, bloody Inquiſition houſe, are fitted for ſuch purpoſes, being uſed to and hardened in blood and cru<g ref="char:EOLhyphen"/>elties) and have received the holy Oyle and Benediction of the Pone, and his abſolution for the perpetrating of all horred mur<g ref="char:EOLhyphen"/>thers, &amp;c. <hi>pro propaganda fide;</hi> ſuch Jeſuits and Jeſuited Roma<g ref="char:EOLhyphen"/>niſts (whoſe Principles are Murthers, Poyſons, &amp;c) that come over, and renouncing their Religion, take up another for State-deſignes onely, and creepe in to get Teſtimonialls, that they may
+<pb n="4" facs="tcp:110305:3"/>become Spies in Armies, and worke Diviſions, merit to ſuffer as Traytors, Rebels, Incendiaries of the State.</p>
+            <p>Omitting thoſe many inferences, that are, and will be made by the Vulgar from this ſtrange Diſcovery, as that, <hi>Ergo,</hi> all <hi>A<g ref="char:EOLhyphen"/>nabaptiſts</hi> are Ieſuits, will turne Papiſts, &amp;c. (a new Doctrine to me) though this Counterfeit confeſſed, that onely the <hi>Anabap<g ref="char:EOLhyphen"/>tiſts</hi> or <hi>Swinkefeldians,</hi> (who hold Free-will indeed) were Burnt, Perſecuted in <hi>Germany</hi> at this time; whilſt <hi>Lutherans, Calveniſts</hi> onely, had tolleration, <hi>per Publicum bannum Imperatoris.</hi> What worſe is Baptiſme, Church-fellow-ſhip, &amp;c. for a <hi>Iudas,</hi> a <hi>Simon Magus,</hi> a notorious Hypocrite abuſing them? The Devill will make notable uſe of this, and poſſeſſe the World, that Sheep are Wolves, and fit to be deſtroyed, becauſe Wolves appeare in Sheeps cloarning, one of his old fetches to raiſe up Perſecution, at leaſt Tongue-Perſecution, which hath already too farre pru<g ref="char:EOLhyphen"/>vailed upon this occaſion: Brethren ſhould not ſtrive. Let us convert it to more holy uſes, and ſee the wonderfull goodneſſe of God, and his eſpeciall care over his poore People in anſwering Prayers, and ſo ſoon diſcovering (as <hi>Simon Magus</hi> was) this miſ<g ref="char:EOLhyphen"/>creant, taking this Fox (that intended to have ſpoyled the Vines that hath tender Grapes; and one tricke was, to have blowne up Churches with Notions above Ordinances, if not that, then to try what Free-will could doe, &amp;c.) in his owne net, not ſuffering him to goe any further. Churches as they have their Commiſ<g ref="char:EOLhyphen"/>ſion immediately from <hi>Chriſt;</hi> ſo their Protection alſo: his Ban<g ref="char:EOLhyphen"/>ners of Love are over them, their Comforts, their Graces, their Priviledges, their Ordinances. All the <hi>Iudaſſes, Annaniaſſes, Si<g ref="char:EOLhyphen"/>mon Maguſſes, Alexanders, Hermogeneſſes, Hymeneuſes;</hi> all the poyſon of Heretickes, Peſecution of Magiſtrates, and Rulers were never able to doe the leaſt harme to the Churches of <hi>Chriſt.</hi> They multiplyed, flouriſhed in deſpight of all the malice of Hell. Never any deſigne the Devill had upon them, but they gained by it; and ſhortly <hi>Chriſt</hi> will tread <hi>Satan</hi> under the feet of his Churches; and the Devill. Anti-Chriſt, Hypocrites ſhall pay for all the wrongs they have done <hi>Chriſt,</hi> his Saints, his Ordinances. Thinke not ſomewhat is befallen, which hath no preſident in the Primitive Churches; thouſands of glorious Hypocrites there are,
+<pb n="5" facs="tcp:110305:3" rendition="simple:additions"/>though its very rare to finde one ſo groſſe, ſo deſperately profane as this Counterfeit, ſo every way reſembling the Devill. <hi>Churches</hi> muſt looke for fiery Tryalls, not onely from without, but from within; from Hypocrites, Seducers in their owne boſomes; but they ſhall loſe nothing by all, even ſuch occurrences as theſe; they ſhall ſerve onely to Poliſh them, provoke them to more holineſſe, love, watchfulneſſe, humility. Oh take heed of ſtum<g ref="char:EOLhyphen"/>bling at the ſtumbling-ſtone; Bleſſed are thoſe that are not of<g ref="char:EOLhyphen"/>fended at <hi>Chriſt,</hi> his Truths, his Ordinances in theſe dayes. We are like to ſee more of theſe things. <hi>Chriſt</hi> hath ſore-told us. The Devill will ſute himſelfe into all ſhapes, appear in all formes to undermine <hi>Chriſt;</hi> he is the Maſter Hypocrite, the Maſter Polititian. <hi>Quum pellis leonina non ſufficit, vulpina eſt aſſumenda, Machi.</hi> What need had we to beware of men (eſpecially men of Parts, curious Wits, who can turne themſelves into any like<g ref="char:EOLhyphen"/>neſſe, eaſily diſguiſing themſelves; we are apt to be taken with Gifts and Parts) ſuſpecting leaſt we be deceived. Churches had need be very wary, circumſpect in theſe times, when looked up<g ref="char:EOLhyphen"/>on as a prevailing Party, a way to preferment, as Chriſtianity was in <hi>Conſtantines</hi> Court. There had need be trying, ſearching to purpoſe, ranſacking mens hearts, turning them over and over, before a cloze. <hi>Nimia cautela non nocet.</hi> ſudden actings in Churches are dangerous. He that ſuſpects not, will be<note n="*" place="margin">Qui cito credit fa<g ref="char:EOLhyphen"/>cile fallitu<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> deceived; feare every man whom we doe not throughly know: without much warineſſe in theſe dayes, <hi>Churches</hi> will be filled with Hy<g ref="char:EOLhyphen"/>pocrites; and the moſt glorious <hi>Churches</hi> will harbour the great<g ref="char:EOLhyphen"/>eſt deceivers. The World is full of<note n="*" place="margin">Melin ote<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> fil in cord<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </note> Deceivers. The Devill is mightily buſie, extraordinary beſtirrs himſelfe in theſe laſt and perillous dayes. He will raiſe up ſpirits on purpoſe, who ſhall affront, diſgrace, blaſpheme the good wayes of God; his Plots againſt the Saints, the <hi>Churches;</hi> all the Ordinances thereof are exceeding deep, fairely guilded over. He will ſoment jealouſies, raiſe up ſlanders, back-bitings, cenſurings, judgings, reproachings one another, to divide, to weaken, to deſtroy. He can ſet Saints againſt Saints, <hi>Churches</hi> againſt <hi>Churches,</hi> put fire to <hi>Churches</hi> and Common-wealths. He hath variety of Inſtruments, Engines fit for every worke. The Devill and the Pope make uſe of no
+<pb n="6" facs="tcp:110305:4"/>Fooles, they are not for their turne; they chuſe the moſt ſubli<g ref="char:EOLhyphen"/>mated Wits, the choy ceſt pieces of Art and Learning, men com<g ref="char:EOLhyphen"/>pounded of the nimbleſt ſpirits, full fraught with the policy, audacity of the Devill, that have drunke in the very quinteſ<g ref="char:EOLhyphen"/>ſcence of Hell; who having loſt all ſence and ſeeling in their Conſciences, in Stew-houſes, Inquiſition-houſes, are on purpoſe trained up to dare to doe any<note n="*" place="margin">Illis felix ſeclus, pie<g ref="char:EOLhyphen"/>tas eſt.</note> wickedneſſe, Poyſon Stab. Mur<g ref="char:EOLhyphen"/>ther, &amp;c. things that the thoughts of would afright any ſpirit that is but commonly wicked, Cunning Artiſts, deceitfully Wor<g ref="char:EOLhyphen"/>kers, who are <hi>Ingenioſiſſime nequam,</hi> Ingenious Inventers of miſ<g ref="char:EOLhyphen"/>chiefes; <hi>Scelerum molitores egregii,</hi> free to act all wickedneſſe, (for <hi>Jeſuitis Diabolo<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> quaelibet audendi conceditur aequa poteſtat</hi>) yet can transforme themſelves into an Angel of Light. Alas, how ea<g ref="char:EOLhyphen"/>ſily are poore Lambes and Doves oft deceived before they be a<g ref="char:EOLhyphen"/>ware, by ſuch Foxes, ſawning <hi>Simons.</hi> Honeſt, ſimple, well-mean<g ref="char:EOLhyphen"/>ing ſoules, <hi>(ignari ſcelerum tantorum, artiſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> Pelaſgae)</hi> how eaſily are they circumvented? Therefore <hi>Chriſts</hi> command is to be <hi>Ser<g ref="char:EOLhyphen"/>pents</hi> as well as <hi>Doves.</hi> Rare where both Graces meet, <hi>Amare &amp; ſapore.</hi> What need had Saints to keep cloſe to Jeſus Chriſt, to Reade, Study the bleſſed Word of God much, to walke cloſe in the order of the Goſpel (as an Army with Banners) which would be as a Wall of Fire and Braſſe againſt Deceivers. What little cauſe of boaſting in Ordinances, Priviledges, when a Devill, a Witch may be under the moſt pretious Ordinances? Church-mem<g ref="char:EOLhyphen"/>berſhip may be without true Saintſhip; men may get into <hi>Churches,</hi> that ſhall be excluded Heaven at the laſt, with the five Fooliſh Vir<g ref="char:EOLhyphen"/>gins, and carry Baptiſme and all Ordinances to Hell with them, whoſe Flames of all others ſhall be the hotteſt there. Prize grace in every Saint, and love him for his grace meerly, not his Opini<g ref="char:EOLhyphen"/>on, whatever it be. When <hi>Judas</hi> is abroad, when the Devill is playing all his prankes, trudging up and downe to deceive; what need had Saints to VVatch and Pray, to watch one over another, exhort one another, continually examining their owne hearts, to finde out the ſophiſtries, ſubtilties that are there; there may be ſeen the greateſt Divels, Jeſuits, Impoſtures in the world acting their parts. The more we feare, ſuſpect our ſelves, others the ſafer from being deceived. Look round about us, within, and with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:110305:4" rendition="simple:additions"/>us, and we ſhall ſee the hypocrite acting every where, in Courts, in Churches, in Gloſets, in Pulpits, in Shops, no place free. Many State-hypocrites, Church-hypocrites, muſt yet be unmasked in <hi>England.</hi> Bleſſed are poore, humble ſincere ſoules, ſuch onely will he able to endure this day of the Lord, this day of burning that is upon <hi>England.</hi> Men of all forts, of all Pro<g ref="char:EOLhyphen"/>feſſions will be tryed. None more Devill-like then an hypo<g ref="char:EOLhyphen"/>crite: he hath his deſignes in all that he doth, but ſo cloſely, cunningly layd, (as <hi>Vaux,</hi> a Romiſh Emiſſary too, layd his Pow<g ref="char:EOLhyphen"/>der-barrels under the Parliament Houſe) that none can poſſibly diſcerne him, till God himſelfe diſcover him; he can varniſh over the greateſt wickedneſſe, with the greateſt ſhewes of godli<g ref="char:EOLhyphen"/>neſſe, caſt ſand and duſt in the eyes of all that come neer him, and blinde them. How many ſuch are hugged, kiſſed, embraced in the armes of Saints (as once it may be <hi>Phlygellus, Alexander, Philetus, &amp;c.</hi> was of holy <hi>Paul</hi>) who ſhall ere long be turned into the blackeſt Devils in Hell. Oh, who can fadome hearts, who knowes thoſe myſteries of Iniquity, exceeding all thoſe wickedneſſes that are done in the Cloyſters of Monks, the Col<g ref="char:EOLhyphen"/>ledges of Jeſuits, the Conclaves of Popes? A ſingular piece of their wickedneſſe was this counterfeit lew, (a ſelect Commi<g ref="char:EOLhyphen"/>ſſioner of Hell. <hi>In utrum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> paratus, ſeu verſare dolos ſau certe occumbere morti.</hi>) ſent from the Inquiſition, houſe to try his fidelity (in order to Prieſthood) by ſome notable attempt up<g ref="char:EOLhyphen"/>on the State, Army, by Diviſion, Intelligence, poyſon, any way (to which his acting at <hi>Hexham</hi> was but the Introduction) to propagate the Catholique ends; being impowred by the Popes Indulgence, to doe any thing, ſweare any thing, coun<g ref="char:EOLhyphen"/>terfeit any thing, put off, put on any Religion, &amp;c. Oh the blood of bodies, ſoules, that <hi>Man of ſinne,</hi> is guilty of, (who rejoyceth ſo much to heare of any Martyr, as he calls him. though he be a wicked Rogue, a Blaſphemous wretch, ſuffer for the Catholique cauſe) the Lord Ieſus will judge him ſhort<g ref="char:EOLhyphen"/>ly. The ſtrange diſcovery of this counterfeit, did exceedingly take the hearts of all there preſent, and made them fall down, and adore, and bleſſe God in this great Providence. Greatly would they have rejoyced to ſee any the leaſt true compucti<g ref="char:EOLhyphen"/>on
+<pb n="8" facs="tcp:110305:5"/>of ſpirit, ſuch as flowes from ſights of <hi>Chriſt,</hi> and ſence of pardon. Pray that all thoſe Emiſſaries of Hell may be diſcove<g ref="char:EOLhyphen"/>red every where: Prayer had a ſtrange influence upon the diſ<g ref="char:EOLhyphen"/>covery of this Counterfeit; it will yet find out more of thoſe lying ſpirits of Devils, which come forth of the mouth of the Beaſt and the falſe Prophet, (drunke with the blood of Saints and Martyrs of Ieſus) who notwithſtanding all his glorious, ſplended Troope of Cardinalls and Ieſuits (thoſe <hi>Cardines Di<g ref="char:EOLhyphen"/>aboli,</hi> thoſe Engines of wickedneſſe dayly attending him) and their boaſting of the Conqueſt of <hi>Chinah,</hi> (the <hi>Atlas Romanae Eccleſia</hi>) ſhall be tumbled downe, and made to drinke of the Cup of the wrath of the Lord. Let the Pope uſe all his cun<g ref="char:EOLhyphen"/>ning to divide, diſtract, (as <hi>Balaam</hi> did) he ſhall not be able to eſcape the Sword of the Lord, which is now drawn, and ſet to his breaſt, and will aſſuredly enter into his bowels. Let him look from his high Prinacle of worldly glory, and ſcorne the Army of <hi>England;</hi> mock and laugh at the glorious providences of God a<g ref="char:EOLhyphen"/>mong us (as the actings of a giddy-headed people) curſe all our proceedings; yet let him know, <hi>Chriſt</hi> is making great preparati<g ref="char:EOLhyphen"/>ons againſt him here in <hi>England,</hi> and whetting the Arrowes of his indignation, to deſtroy him and his Adherents. <hi>Chriſt</hi> is un<g ref="char:EOLhyphen"/>dermining all the mountains of his Power and greatneſſe upon which he ſits. <hi>Babylon</hi> the great ſhall fall, and not one ſtone left upon another of all her ſtately Structure, (her Eccleſiaſticall pompe, and civill Power) which ſhall become a place of <hi>Iim &amp; Zim,</hi> the abomination of the Earth. In that day, the redeemed of the Lord ſhall rejoyce, the Saints ſhall ſing, yea, even now we are be<g ref="char:EOLhyphen"/>gun to ſing our Hallelujahs, <hi>Rev.</hi> 19. The Saints of <hi>England</hi> (a Land of Victories, of Ordinances, of all ſorts of glories) have firſt begun to ſet the Tune of the Songs of <hi>Zion,</hi> which ſhall be ſung through all Nations, <hi>Great and marveilous are thy works, Lord God Almighty, juſt and true are thy wayes, oh King of Saints. Who ſhall not feare thee, O Lord, and glorifie thy Name, for thou onely art holy. For all Nations ſhall come and Worſhip before thee, for thy Iudgement are made manifeſt,</hi> Rev. 15.</p>
+            <p>An Anabaptiſt can never be a Papiſt, nor a Papiſt an Anabaptiſt: He that holds Infant-Baptiſme (as a Papiſt muſt) is no Anabaptiſt. A Papiſt may take up Baptiſme upon a State-deſigne, (as this Counterfeit) but he is a Papiſt ſtill, and holds Infant-Baptiſme. They dif<g ref="char:EOLhyphen"/>fer in all Points, Baptiſme, Supper, Singing, Sabbath, Miniſterie, impoſſible to reconcile them.</p>
+            <closer>
+               <dateline>
+                  <date>23. <hi>Iune</hi> 1653.</date>
+               </dateline>
+            </closer>
+            <pb facs="tcp:110305:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
